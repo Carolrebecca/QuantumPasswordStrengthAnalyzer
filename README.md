@@ -21,8 +21,10 @@ This educational tool helps visualize the difference in password resistance unde
 
 ## Demo
 
-![Demo Screenshot](screenshot.png)  <!-- Add a screenshot of your app here -->
-
+![Demo Screenshot](Screenshots/ss1.png)  <!-- Add a screenshot of your app here -->
+![Demo Screenshot](Screenshots/ss2.png)
+![Demo Screenshot](Screenshots/ss3.png)
+![Demo Screenshot](Screenshots/ss4.png)
 ---
 
 ## Installation
