@@ -1,5 +1,3 @@
-# main.py
-# Quantum Password Strength Analyzer (pure simulation + graph)
 import streamlit as st
 import math
 import string
